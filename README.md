@@ -24,11 +24,15 @@ Estou desenvolvendo meu primeiro grande projeto prático utilizando o dataset da
 ---
 
 ### 🛠 Toolbox
-<img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
 
 ### 🤝 Vamos trocar uma ideia?
-<a href="mailto:jose.diego1@hotmail.com"><img src="https://jsdelivr.net" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/in/diego-andrade-96805939a/"><img src="https://jsdelivr.net" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/diego-andrade-96805939a/"><img src="https://shields.io" height="35" /></a>
+<a href="mailto:jose.diego1@hotmail.
 
 
 
