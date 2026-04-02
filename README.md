@@ -24,18 +24,13 @@ Estou desenvolvendo meu primeiro grande projeto prático utilizando o dataset da
 ---
 
 ### 🛠 Toolbox
-![SQL](https://shields.io)
-![Excel](https://shields.io)
-![Power Bi](https://shields.io)
-![Python](https://shields.io)
-![R](https://shields.io)
-
-
-
+<img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" /> <img src="https://jsdelivr.net" width="40" height="40" />
 
 ### 🤝 Vamos trocar uma ideia?
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/diego-andrade-96805939a/)
-[![Hotmail](https://shields.io)](mailto:jose.diego1@hotmail.com)
+<a href="mailto:jose.diego1@hotmail.com"><img src="https://jsdelivr.net" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/diego-andrade-96805939a/"><img src="https://jsdelivr.net" width="40" height="40" /></a>
+
+
 
 
 
