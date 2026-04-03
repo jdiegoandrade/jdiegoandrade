@@ -17,7 +17,6 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 
 ### 📊 Projeto em Destaque (Em desenvolvimento)
 
-*Análise da Cadeia de Suprimentos - E-commerce Olist*
 Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist disponível no Kaggle. Meu objetivo é aplicar minha visão logística para:
 
 *   Analisar o lead time de entrega e gargalos de transporte.
