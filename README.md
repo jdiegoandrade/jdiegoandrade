@@ -10,7 +10,7 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 ### 🚀 Sobre Mim
 - 🚛 *Background:* Sólida experiência em logística, focado em otimização de fluxos e distribuição.
 - 🎓 *Formação:* Certificado *Google Data Analytics* e cursando Pós-graduação em *Estatística Aplicada*.
-- 🛠️ *Foco Atual:* Domínio avançado de *SQL* e *Power BI*.
+- 🛠️ *Foco Atual:* Domínio de *SQL* e *Power BI*.
 - 🌱 *Explorando:* Iniciando os primeiros passos em *Python* e *R* para análise estatística avançada.
 
 ---
