@@ -2,7 +2,8 @@
 
 ### 📊 Especialista em Logística de Distribuição | Aspirante a Analista de Dados
 
-Combinando anos de experiência no setor logístico com o poder da análise de dados para transformar cadeias de suprimentos e processos de distribuição em operações orientadas por insights.
+Minha missão é transformar a complexidade da cadeia de suprimentos em inteligência de negócio. Utilizo modelos estatísticos para traduzir números brutos em decisões de alto impacto.
+ 
 
 ---
 
@@ -14,7 +15,7 @@ Combinando anos de experiência no setor logístico com o poder da análise de d
 
 ---
 
-## 📊 Projeto em Destaque (Em desenvolvimento)
+### 📊 Projeto em Destaque (Em desenvolvimento)
 
 *Análise da Cadeia de Suprimentos - E-commerce Olist*
 Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist disponível no Kaggle. Meu objetivo é aplicar minha visão logística para:
@@ -25,7 +26,7 @@ Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist di
 
 ---
 
-## Atualmente focado em:
+### 🔭 Atualmente focado em:
 
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
