@@ -23,6 +23,10 @@ Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist di
 *   Identificar padrões geográficos de frete e performance de sellers.
 *   Propor otimizações baseadas em dados reais de mercado.
 
+---
+
+## Atualmente focado em:
+
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
