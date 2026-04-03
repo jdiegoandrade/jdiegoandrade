@@ -14,23 +14,43 @@ Combinando anos de experiência no setor logístico com o poder da análise de d
 
 ---
 
-### 📂 Projeto em Destaque (Em desenvolvimento)
-*[Análise da Cadeia de Suprimentos - E-commerce Olist (Kaggle)](link-do-seu-repositorio)*
-Estou desenvolvendo meu primeiro grande projeto prático utilizando o dataset da Olist. Meu objetivo é aplicar minha visão logística para:
+## 📊 Projeto em Destaque (Em desenvolvimento)
+
+*Análise da Cadeia de Suprimentos - E-commerce Olist*
+Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist disponível no Kaggle. Meu objetivo é aplicar minha visão logística para:
+
 *   Analisar o lead time de entrega e gargalos de transporte.
 *   Identificar padrões geográficos de frete e performance de sellers.
 *   Propor otimizações baseadas em dados reais de mercado.
 
----
-
-### 🛠 Toolbox
-
-<img src="https://shields.io" height="30" /> <img src="https://shields.io" height="30" /> <img src="https://shields.io" height="30" /> <img src="https://shields.io" height="30" /> <img src="https://shields.io" height="30" />
+<div style="display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+</div>                 
 
 ### 🤝 Vamos trocar uma ideia?
 
-<a href="www.linkedin.com/in/diego-andrade-96805939a/"><img src="https://shields.io" height="30" /></a>
-<a href="mailto:jose.diego1@hotmail.com"><img src="https://shields.io" height="30" /></a>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/diego-andrade-96805939a/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<!-- E-mail -->
+<a href="mailto:josediegoandradesantos23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
