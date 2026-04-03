@@ -32,7 +32,9 @@ Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist di
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-</div>                 
+</div>   
+
+---
 
 ### 🤝 Vamos trocar uma ideia?
 
