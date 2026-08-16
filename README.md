@@ -19,7 +19,7 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 
 Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist disponível no Kaggle. Meu objetivo é aplicar minha visão logística para:
 
-*   Analisar o lead time de entrega e gargalos de transporte.
+*   Analisar rotas de entrega e mapear gargalos de transporte.
 *   Identificar padrões geográficos de frete e performance de sellers.
 *   Propor otimizações baseadas em dados reais de mercado.
 
