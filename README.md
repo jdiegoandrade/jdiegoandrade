@@ -24,7 +24,7 @@ Desenvolvimento de uma infraestrutura robusta de dados para engenharia de redes 
 * 🛠️ **Pipelines de ETL:** Construção de 6 CTEs modulares no Google BigQuery e consolidação relacional via SQL de 102.425 registros de transporte.
 * 📊 **Próximos passos:** Modelagem descritiva focada em volumetria, cubagem, assimetrias regionais de tráfego e desenvolvimento do painel no Power BI.
 
-👉 **[Clique aqui para acessar o Repositório do Projeto Analise Logística](./../analise-logistica-olist)**
+👉 **[Clique aqui para acessar o Repositório do Projeto Analise Logística]([./../analise-logistica-olist](https://github.com/jdiegoandrade/analise-logistica-olist))**
 
 
 ---
