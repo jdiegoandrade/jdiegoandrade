@@ -1,6 +1,6 @@
 # Olá, meu nome é Diego 👋
 
-### 📊 Especialista em Logística de Distribuição | Aspirante a Analista de Dados
+### 📊 Especialista em Logística de Distribuição | Data Analytics & Business Intelligence
 
 Minha missão é transformar a complexidade da cadeia de suprimentos em inteligência de negócio. Utilizo modelos estatísticos para traduzir números brutos em decisões de alto impacto.
  
@@ -8,7 +8,7 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 ---
 
 ### 🚀 Sobre Mim
-- 🚛 *Background:* Sólida experiência em logística, focado em otimização de fluxos e distribuição.
+- 🚛 *Background:* 16 anos de experiência em logística, focado em otimização de fluxos e distribuição.
 - 🎓 *Formação:* Certificado *Google Data Analytics* e cursando Pós-graduação em *Estatística Aplicada*.
 - 🛠️ *Foco Atual:* Domínio de *SQL* e *Power BI*.
 - 🌱 *Explorando:* Iniciando os primeiros passos em *Python* e *R* para análise estatística avançada.
@@ -17,11 +17,15 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 
 ### 📊 Projeto em Destaque (Em desenvolvimento)
 
-Estou desenvolvendo meu primeiro grande projeto utilizando o dataset da Olist disponível no Kaggle. Meu objetivo é aplicar minha visão logística para:
+Desenvolvimento de uma infraestrutura robusta de dados para engenharia de redes logísticas utilizando a base de dados real do e-commerce brasileiro (Olist). O projeto simula o ambiente de grandes operações de Supply Chain e é o meu caso prático de conclusão do Certificado Profissional de Análise de Dados do Google.
 
-*   Analisar rotas de entrega e mapear gargalos de transporte.
-*   Identificar padrões geográficos de frete e performance de sellers.
-*   Propor otimizações baseadas em dados reais de mercado.
+**Status atual do projeto (80% concluído):**
+* 🏗️ **Fase de Preparação e Governança:** Concluída com a validação empírica de variabilidade e o teste de heterocedasticidade das tabelas brutas.
+* 🛠️ **Pipelines de ETL:** Construção de 6 CTEs modulares no Google BigQuery e consolidação relacional via SQL de 102.425 registros de transporte.
+* 📊 **Próximos passos:** Modelagem descritiva focada em volumetria, cubagem, assimetrias regionais de tráfego e desenvolvimento do painel no Power BI.
+
+👉 **[Clique aqui para acessar o Repositório do Projeto Analise Logística](./../analise-logistica-olist)**
+
 
 ---
 
