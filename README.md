@@ -15,15 +15,15 @@ Minha missão é transformar a complexidade da cadeia de suprimentos em intelig�
 
 ---
 
-### 📊 Projeto em Destaque (Em desenvolvimento)
+### 📊 Projeto em Destaque 
 
 Desenvolvimento de uma infraestrutura robusta de dados para engenharia de redes logísticas utilizando a base de dados real do e-commerce brasileiro (Olist). O projeto simula o ambiente de grandes operações de Supply Chain e é o meu caso prático de conclusão do Certificado Profissional de Análise de Dados do Google.
 
-**Status atual do projeto (90% concluído):**
+**Status atual do projeto: CONCLUÍDO**
 * 🏗️ **Fase de Preparação e Governança:** Concluída com a validação empírica de variabilidade e o teste de heterocedasticidade das tabelas brutas.
 * 🛠️ **Pipelines de ETL:** Construção de 6 CTEs modulares no Google BigQuery e consolidação relacional via SQL de 102.425 registros de transporte.
 * 📊 **Análise Estatística:** Modelagem descritiva focada em volumetria, cubagem e assimetrias regionais de tráfego.
-* 🔮 **Próximos Passos:** Visualização de dados e insights.
+* 🔮 **Visualização de dados e insights:** Utilização do Power BI para confecção de Relatório Executivo com insights de negócios.
 
 👉 **[Clique aqui para acessar o Repositório do Projeto de Análise Logística](https://github.com/jdiegoandrade/analise-logistica-olist)**
 
